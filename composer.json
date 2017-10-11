@@ -10,9 +10,9 @@
     }
   ],
   "require"    : {
-    "mbxssdk/application"  : "~0.1.0",
-    "mbxssdk/dependency"  : "~0.1.0",
-    "mbxssdk/router"  : "~0.1.0"
+    "mbxsdk/application"  : "~0.1.0",
+    "mbxsdk/dependency"  : "~0.1.0",
+    "mbxsdk/router"  : "~0.1.0"
   },
   "require-dev": {
     "codeception/codeception": "^2.3"
